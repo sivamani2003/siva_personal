@@ -1,0 +1,177 @@
+body{
+    background-color:rgba(0, 0,0,0.9);
+}
+*{
+    margin: 0%;
+}
+.one{
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 5%;
+    margin-left: 55%;
+}
+.one p{
+    color: red;
+}
+.one a{
+    color:rgba(255,255,255,0.9);
+    text-decoration: none;
+    padding: 3%;
+}
+.one a:hover{
+    color:red;
+}
+.two p{
+    color: white;
+    margin-left: 20%;
+    margin-top: 3%;
+    font-size: 20px;
+}
+.noob{
+    font-size: 70px;
+    color: red;
+}
+.nibbi{
+    font-size: 70px;
+    color: silver;
+}
+.outer {
+    margin: 50px;
+    margin-left: 20%;
+}
+.button {
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 3px;
+    width: 200px;
+    height: 40px;
+    display: block;
+    background: linear-gradient(to right, red 50%, white 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: all .7s ease-out;
+    box-shadow: 1px 1px 4px rgba(255,0,0,0.8);
+}
+.button:hover {
+    background-position: left bottom;
+}
+.button a{
+    text-decoration: none;
+}
+.text,.nibba{
+    text-align: center;
+    margin-top:3%;
+    font-size: 16px;
+    line-height: 30px; 
+    color: black;
+    transition: all .6s ease-out;
+    display: block;
+}
+.text:hover {
+    color: white;  
+}
+.container {
+    display: flex;
+}
+#varshitha{
+    color: black;
+}
+.work{
+    color: red;
+    font-size: 25px;
+    margin: 0% 0% 0% 15%;
+    width: 70%;
+    box-shadow: 1px 1px 4px rgba(255,0,0,0.8);
+}
+.work p{
+    margin-left: 28%;
+}
+.work a{
+    color:red;
+    text-decoration: none;
+}
+.work a:hover{
+    color:rgba(255,255,255,0.5);
+}
+.pic img{
+    width: 20%;
+    margin-left: 77%;
+    border-radius: 50%;
+}
+
+.icon-bar a {
+    display: block; 		
+    padding: 5px; 	
+    font-size: 36px;
+    color: white;
+    
+}
+/* .insta{
+    position: sticky;
+    left: 56px;
+    top: 292px;
+}
+.facebook{
+    position: sticky;
+    left: 16px;
+    top: 368px;
+} */
+.github{
+    position: sticky;
+    left: 52px;
+    top: 480px;
+}
+/* .vertical {
+    border-left: 6px solid white;
+    height: 270px;
+    margin-left: 2.7%;
+
+} */
+.edu{
+    color: 9FDCEB ;
+    font-size: 26px;
+    text-align: center;
+    margin: 10% 0% 0% 15%;
+    box-shadow: 1px 1px 4px rgba(255,0,0,1.4);
+    width: 70%;
+}
+.edu h3{
+    margin-right: 64%;
+    color: red;
+}
+.edu a{
+    color:9FDCEB;
+    text-decoration: none;
+}
+.edu a:hover{
+    color: silver;
+}
+.navbar{
+    margin-left: 30%;
+    margin-top: 10%;
+    font-size: 40px;
+}
+.navbar a{
+    color: red;
+    text-decoration: none;
+    box-shadow: 1px 1px 4px rgba(255,0,0,1.4);
+    margin-right:5%;
+    padding: 2%;
+}
+.kar p{
+    color: white;
+    margin-left: 40%;
+    margin-top: 10%;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.lol{
+    padding: 2%;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 4%;
+    color: white;
+}
+.lol a:hover{
+    color: rgba(255,0,0, 0.5);
+}
